@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string-array name="array_que">
+        <item>Hà Nội</item>
+        <item>TP.Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Thái Bình</item>
+        <item>Quảng Ninh</item>
+        <item>Nam Định</item>
+        <item>Thanh Hóa</item>
+        <item>Nghệ An</item>
+        <item>Thừa-Thiên Huế</item>
+        <item>Hà Nam</item>
+    </string-array>
+</resources>
